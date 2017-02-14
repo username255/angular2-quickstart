@@ -1,7 +1,7 @@
 # angular2-quickstart
 ng2 boilerplate without testing libraries
 
-0. `clone`
+0. `clone & cd`
 1. `npm install`
 2. `npm start`
 
